@@ -10,3 +10,9 @@
 <img src="http://mazandi.herokuapp.com/api?handle=huzan2&theme=warm"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huzan2&layout=compact)](https://github.com/huzan2/github-readme-stats)
+
+*interested in*
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
